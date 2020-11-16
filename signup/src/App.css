@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+ position: absolute;
+ background-color: transparent;
+ top: 30%;
+ width: 26%;
+ left: 37%;
+ border: 4px solid chartreuse;
+  opacity: 0.9;
+  
+
+}
+.all {
+ 
+  height: 100vh;
+  background-image: url('zdj.jpg');
+  background-repeat: no-repeat;
+ 
+ 
+  
+}
+.App input {
+  margin: 10px;
+  width: 60%;
+  background-color: black;
+  
+}
+.App input:focus {
+  border: 2px solid chartreuse;
+}
+.App h2{
+  text-transform: uppercase;
+}
+.App button {
+  width: 60%;
+  margin: 20px;
+  height: 30px;
+  background-color: transparent;
+  border: 2px solid chartreuse ;
+}
+
+
